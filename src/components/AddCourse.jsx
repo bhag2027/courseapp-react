@@ -43,7 +43,7 @@ const AddCourse = () => {
   return (
     <div>
         <NavBar/>
-        <h1 align="center">COURSES</h1>
+        <h1 align="center"><u>COURSES</u></h1>
         <div className="container">
             <div className="row">
                 <div className="col">

@@ -15,6 +15,7 @@ const ViewCourse = () => {
     return (
         <div>
             <NavBar/>
+            <h1 align="center"><u>COURSE DETAILS</u></h1>
             <div className="container">
                 <div className="row">
                     <div className="col">
